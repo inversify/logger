@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_inversifyjs_inversify_logger_docs_site=self.webpackChunk_inversifyjs_inversify_logger_docs_site||[]).push([["220"],{4326:function(s){s.exports=JSON.parse('{"blogBasePath":"/logger/blog","blogTitle":"Blog","authorsListPath":"/logger/blog/authors"}')}}]);

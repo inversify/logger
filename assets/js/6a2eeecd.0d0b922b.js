@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_inversifyjs_inversify_logger_docs_site=self.webpackChunk_inversifyjs_inversify_logger_docs_site||[]).push([["917"],{8476:function(e){e.exports=JSON.parse('{"metadata":{"permalink":"/logger/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
